@@ -1,5 +1,5 @@
 ##### Este projeto de aprendizagem, usando rotas e modelos com php
-| [en-US](README.MD) | pt-BR this file |
+| [en-US](README.md) | pt-BR this file |
 |---|---|
 
 .htaccess necessário para as rotas;
