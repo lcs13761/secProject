@@ -1,6 +1,8 @@
 ### this learning project, using routes and templates with php
 
- 
+| [pt-BR](README.pt-BR.md) | en-US - this file |
+|---|---|
+
 required .htaccess for removing routes;
 
 ## .htaccess
